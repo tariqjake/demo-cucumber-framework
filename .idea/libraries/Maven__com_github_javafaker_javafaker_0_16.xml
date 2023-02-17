@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.javafaker:javafaker:0.16">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.16/javafaker-0.16.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/postgresql-42.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.16/javafaker-0.16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.16/javafaker-0.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -6,8 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cucumber-sample-framework" />
         <module name="cucumberSampleFramework" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cucumber-sample-framework" target="1.8" />
+      <module name="demo-cucumber-framework" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
